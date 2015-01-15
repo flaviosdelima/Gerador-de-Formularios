@@ -1,7 +1,7 @@
 <?php
 $dbname = 'sys_sgp';
 
-if (!mysql_connect('localhost','flavios','123456')) {
+if (!mysql_connect('localhost','flavios','321654')) {
     echo 'Could not connect to mysql';
     exit;
 }
